@@ -1,0 +1,15 @@
+.DS_Store
+.idea/
+.bsp/
+target/
+project/boot/
+project/plugins/project/
+dist/*
+.history
+.cache
+.lib/
+tags
+.*.swp
+.*.swo
+results.csv
+
